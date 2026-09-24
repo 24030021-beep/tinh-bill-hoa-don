@@ -17,9 +17,10 @@ menu = {
         "Salad Trộn": 50000,
         "Bít tết Bò Mỹ": 250000,
         "Sườn nướng BBQ": 180000,
-        "Cánh gà chiên mắm": 75000,
+        "Cánh gà chiên mắm": 85000,
         "Lẩu cá diêu hồng": 200000,
         "Lẩu Thái hải sản": 300000,
+        "Pizza 7 màu": 400000,
     },
     "Thức uống": {
         "Coca Cola": 20000,
@@ -30,6 +31,8 @@ menu = {
         "Nước ép cam": 40000,
         "Mojito chanh dây": 55000,
         "Bia Heineken": 30000,
+        "Sinh tố 7 màu": 65000,
+
     },
 }
 
